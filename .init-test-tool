@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/classroom-connect-24384-5556e85f/classroom_connect"
+}
